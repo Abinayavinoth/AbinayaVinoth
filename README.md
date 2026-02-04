@@ -27,23 +27,6 @@ I enjoy working on real-world datasets, building predictive models, and explorin
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:**  
-`Python` `R` `SQL`  
-
-**Libraries & Tools:**  
-`NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`  
-`TensorFlow` `PyTorch`  
-`Jupyter Notebook` `Git`  
-
-**Concepts:**  
-- Supervised & Unsupervised Learning  
-- Model Evaluation & Feature Engineering  
-- Optimization Techniques  
-- Data Visualization  
-
-– Core Python & problem solving  
-
 👉 Check out my repositories for more!
 
 ---
