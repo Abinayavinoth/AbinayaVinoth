@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Abinaya Vinoth  
 
 🎓 **Integrated M.Sc. Data Science Student**  
-📊 **Data Science | Machine Learning | Healthcare AI**  
+📊 **Data Science | Machine Learning | Deep Learning**  
 🔬 Research-oriented & project-driven  
 
 ---
