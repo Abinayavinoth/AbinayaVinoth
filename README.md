@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me  
 I’m a passionate Data Science student with a strong interest in **machine learning, healthcare analytics, and AI-driven research**.  
-I enjoy working on real-world datasets, building predictive models, and exploring how data can improve decision-making—especially in **healthcare and medical applications**.
+I enjoy working on real-world datasets, building predictive models, and exploring how data can improve decision-making especially in **healthcare and medical applications**.
 
 - 💡 Interested in **Data Science, ML, NLP, CV & Healthcare AI**
 - 🧠 Experience with **research-based and academic projects**
