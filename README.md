@@ -19,9 +19,8 @@ Building ML systems at the intersection of mathematical finance and production-g
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abinaya-vinoth-4221a121b)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thinishath@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
 
 ---
 
@@ -78,17 +77,9 @@ Building ML systems at the intersection of mathematical finance and production-g
 
 🥇 Gold Medalist – National Science Olympiad &nbsp;• &nbsp;👩‍💼 Class Representative, Data Science &nbsp;• &nbsp;📚 Head, Literary Club (150+ members)
 
-🗣️ English (C2) · Tamil (Native) · French (B1) · Spanish (A2)
+🗣️ English (C2) · Tamil (Native) · French (A2) · Spanish (A2)
 
 ---
 
-## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=6)](https://visitcount.itsvg.in)
 
