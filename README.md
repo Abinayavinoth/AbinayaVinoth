@@ -1,4 +1,4 @@
-# Hi, I'm Abinaya Vinoth 👋
+# Hi, I'm Abinaya Vinoth 
 
 **Artificial Intelligence Intern @ Financial Intelligent Machines 2049 SLU 🤖**
 Building ML systems at the intersection of mathematical finance and production-grade AI
@@ -19,7 +19,7 @@ Building ML systems at the intersection of mathematical finance and production-g
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abinaya-vinoth-4221a121b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-vinoth-4221a121b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thinishath@gmail.com)
 
 ---
