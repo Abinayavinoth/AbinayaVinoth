@@ -67,8 +67,11 @@ Building ML systems at the intersection of mathematical finance and production-g
 ## 🚀 Featured Projects
 
 🔹 **Multimodal Healthcare Prediction (MIMIC-IV)** — ClinicalBERT + Vision Transformers fusing clinical notes, imaging & time-series; +12% F1 via hybrid fusion
+
 🔹 **Quantum Error Detection with BiGRU** — quantum-aware NLP on 32K OpenQASM programs; 82% accuracy, beat 7 baselines with 25% fewer parameters
+
 🔹 **Glow Motion** — real-time emotion-adaptive smart lighting with DeepFace & Govee APIs; 97%+ accuracy, <300 ms latency
+
 🔹 **Agentic Invoice Automation** — FastAPI + OCR + RAG pipeline auto-extracting payments and optimizing reminders across countries
 
 ---
